@@ -177,5 +177,4 @@ public class GPSProjectActivity extends AppCompatActivity implements LocationLis
         }
     }
 
-
 }
